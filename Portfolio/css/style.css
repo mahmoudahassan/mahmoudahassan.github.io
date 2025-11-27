@@ -88,3 +88,13 @@ footer {
     cursor: pointer;
     color: white;
 }
+.dark-mode {
+    background: #111;
+    color: #f5f5f5;
+}
+.dark-mode nav,
+.dark-mode header,
+.dark-mode footer {
+    background: #000;
+}
+
