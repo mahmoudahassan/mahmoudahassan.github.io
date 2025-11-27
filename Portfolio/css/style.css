@@ -81,3 +81,10 @@ footer {
     text-align: center;
     padding: 20px;
 }
+#themeToggle {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
