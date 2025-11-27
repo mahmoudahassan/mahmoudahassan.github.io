@@ -8,3 +8,8 @@ document.querySelectorAll("nav a").forEach(anchor => {
     });
 });
 
+// Theme Toggle
+const toggle = document.getElementById("themeToggle");
+toggle.addEventListener("click", () => {
+    document.body.classList.toggle("dark-mode");
+});
