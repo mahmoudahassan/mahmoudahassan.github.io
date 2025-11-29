@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mahmoudahassan.github.io/Portfolio/sitemap.xml
