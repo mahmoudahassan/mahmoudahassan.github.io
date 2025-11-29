@@ -1,1 +1,61 @@
-
+[
+  {
+    "id": "p1",
+    "title": "Power BI Executive Dashboard",
+    "thumb": "images/powerbi1.svg",
+    "largeImage": "images/powerbi_dashboard_large.svg",
+    "description": "Enterprise-ready Power BI solution with DAX KPIs, automated refreshes, and RLS.",
+    "longDescription": "Designed and deployed a multi-source Power BI solution with secure role-based access, incremental refresh and complex DAX measures for financial reporting.",
+    "details": [
+      "Data sources: SQL Server, Oracle, Excel",
+      "Advanced DAX time intelligence",
+      "Scheduled refresh + deployment pipelines",
+      "Row-level security (RLS)"
+    ],
+    "tags": [
+      "Power BI",
+      "DAX",
+      "SQL"
+    ],
+    "animation": "animations/dashboard.json"
+  },
+  {
+    "id": "p2",
+    "title": "Tableau Inventory Optimization",
+    "thumb": "images/tableau1.svg",
+    "largeImage": "images/tableau_inventory_large.svg",
+    "description": "Forecasting & optimization dashboards to reduce stockouts and inventory waste.",
+    "longDescription": "Implemented forecasting models and interactive Tableau dashboards to optimize reorder points and visualize supply chain risks.",
+    "details": [
+      "Demand forecasting models",
+      "Interactive visualizations",
+      "Drilldowns & trend analysis"
+    ],
+    "tags": [
+      "Tableau",
+      "Forecasting",
+      "Analytics"
+    ],
+    "animation": "animations/dashboard.json"
+  },
+  {
+    "id": "p3",
+    "title": "SQL ETL Automation",
+    "thumb": "images/sql_automation.svg",
+    "largeImage": "images/sql_automation_large.svg",
+    "description": "Automated PL/SQL + SSIS ETL pipelines for financial reporting.",
+    "longDescription": "Built robust ETL workflows using PL/SQL and SSIS, with data validation, archiving, and optimized indexes for performance.",
+    "details": [
+      "Index optimization",
+      "Data validation pipeline",
+      "Batch scheduling",
+      "Data archiving & purging"
+    ],
+    "tags": [
+      "ETL",
+      "PL/SQL",
+      "SSIS"
+    ],
+    "animation": "animations/dashboard.json"
+  }
+]
