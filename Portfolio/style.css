@@ -4,14 +4,48 @@
             box-sizing: border-box;
         }
 
-        :root {
-            --primary-green: #ffd93d;
-            --dark: #1a1a1a;
-            --light-gray: #fafafa;
-            --medium-gray: #666;
-            --border-gray: #e0e0e0;
-            --hover-green: #2d5f47;
-        }
+     :root {
+  /* Primary Palette */
+  --primary: #3d7a5c;
+  --primary-light: #5aa07c;
+  --primary-lighter: #7fc2a0;
+  --primary-lightest: #d7efe3;
+  --primary-dark: #2f624a;
+  --primary-darker: #204635;
+  --primary-deep: #10251c;
+
+  /* Yellow Accent */
+  --accent: #f2c94c;
+  --accent-light: #ffe37e;
+  --accent-dark: #c7a233;
+  --accent-bold: #ffd93d;
+
+  /* Light Mode Neutrals */
+  --bg: #fafafa;
+  --bg-soft: #f2f4f3;
+  --surface: #ffffff;
+  --border: #d9dedc;
+  --text: #1d1d1d;
+  --text-secondary: #4a4a4a;
+  --muted: #828282;
+
+  /* Semantic */
+  --success: #27ae60;
+  --warning: #f2c94c;
+  --error: #eb5757;
+  --info: #56ccf2;
+}
+
+/* Dark Mode Theme */
+.dark-theme {
+  --bg: #0f1412;
+  --bg-soft: #0a0d0c;
+  --surface: #1b2320;
+  --border: #2c3431;
+  --text: #f2f2f2;
+  --text-secondary: #bdbdbd;
+  --muted: #7a827f;
+}
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
