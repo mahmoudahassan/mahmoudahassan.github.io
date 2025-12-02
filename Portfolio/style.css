@@ -5,12 +5,12 @@
         }
 
  :root {
-            --primary-green: #56ccf2;
+            --primary-green: #eab308;
             --dark: #1a1a1a;
             --light-gray: #fafafa;
             --medium-gray: #666;
             --border-gray: #e0e0e0;
-            --hover-green: #56ccf2;
+            --hover-green: #eab308;
         }
 
         body {
